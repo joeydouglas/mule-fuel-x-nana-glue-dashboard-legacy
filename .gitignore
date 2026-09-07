@@ -1,0 +1,8 @@
+# Exclude local photos (using Drive URLs instead)
+photos/
+*.tar.gz
+test.html
+var/
+real-channel.json
+__pycache__/
+*.py[cod]
